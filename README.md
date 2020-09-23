@@ -1,5 +1,5 @@
 ## Hi there, I'm David  <img src="https://psdalumni.org/wp-content/uploads/2019/07/Wavehand.gif" width="35px"> ##
-## <img src="https://i.gifer.com/GhXr.gif">
+## <img src="https://i.gifer.com/OF8H.gif">
 * I'm Full Stack Developer 💻 
 * In process of learning new skills ⚡
 
