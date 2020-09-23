@@ -1,6 +1,6 @@
 ## Hi there, I'm David  <img src="https://psdalumni.org/wp-content/uploads/2019/07/Wavehand.gif" width="35px"> ##
 <img src="https://s3-eu-central-1.amazonaws.com/yellow.studio/app/public/ckeditor_assets/pictures/138/content_heart-react.gif">
-*  I'm Full Stack Developer 💻 
+* I'm Full Stack Developer 💻 
 * In process of learning new skills ⚡
 
 ### Technologies and Tools: <img src="https://www.cloint.com/wp-content/uploads/2019/10/Cloint_WebsiteImages-11.gif" width="40px">
