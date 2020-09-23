@@ -1,8 +1,4 @@
 ## Hi there, I'm David  <img src="https://diginess.ca/wp-content/uploads/2020/02/waving_hand_sign_1024.gif" width="35px"> ##
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/dkarapetyan2)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-karapetyan1/) 
-
-
 *  I'm Full Stack Developer 💻 
 * In process of learning new skills ⚡
 
