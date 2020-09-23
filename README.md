@@ -2,7 +2,7 @@
 *  I'm Full Stack Developer 💻 
 * In process of learning new skills ⚡
 
-### Technologies and Tools: <img src="https://payload.cargocollective.com/1/8/275216/4110432/prt_400x340_1348076570.gif" width="40px">
+### Technologies and Tools: <img src="https://www.cloint.com/wp-content/uploads/2019/10/Cloint_WebsiteImages-11.gif" width="40px">
 ![](https://img.shields.io/badge/Tag-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=scss&logoColor=white&color=2bbc8a)
