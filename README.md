@@ -1,4 +1,4 @@
-### Hi there, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm David <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="30px">
 *I'm Full Stack Developer 💻
 *I'm in the process of learning new skills
 ####⚙ Technologies and Tools: ####
