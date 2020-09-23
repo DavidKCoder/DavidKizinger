@@ -2,7 +2,7 @@
 ### 📈GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKizinger&layout=compact)](https://github.com/DavidKizinger/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidKizinger&hide=stars,issues&show_icons=true)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-Code-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 
 <!--
 **DavidKizinger/DavidKizinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
