@@ -1,4 +1,4 @@
-### Hi there, I'm David  <img src="https://diginess.ca/wp-content/uploads/2020/02/waving_hand_sign_1024.gif" width="35px"> ###
+## Hi there, I'm David  <img src="https://diginess.ca/wp-content/uploads/2020/02/waving_hand_sign_1024.gif" width="35px"> ##
 I'm Full Stack Developer
 ####⚙ Technologies and Tools: ####
 <!--
