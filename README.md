@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm David 🧬
 ###### I'm Full Stack Developer 💻 ######
+#### Languages and Tools: ####
 <!--
 **DavidKizinger/DavidKizinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
