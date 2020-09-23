@@ -4,7 +4,7 @@
 
 ### Technologies and Tools:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 
 ### 📈GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKizinger&layout=compact)](https://github.com/DavidKizinger/github-readme-stats)
