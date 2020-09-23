@@ -16,7 +16,8 @@
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=MongoDb&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Socket-informational?style=flat&logo=Socket&logoColor=white&color=2bbc8a)
 
 ### 📈GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKizinger&layout=compact)](https://github.com/DavidKizinger/github-readme-stats)
