@@ -1,5 +1,5 @@
 ## Hi there, I'm David  <img src="https://diginess.ca/wp-content/uploads/2020/02/waving_hand_sign_1024.gif" width="35px"> ##
-I'm Full Stack Developer
+#### 📈GitHub Stats####
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidKizinger&hide=stars&show_icons=true)
 <!--
 **DavidKizinger/DavidKizinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
