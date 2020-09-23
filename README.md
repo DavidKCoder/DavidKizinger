@@ -1,4 +1,4 @@
-## Hi there, I'm David  <img src="https://diginess.ca/wp-content/uploads/2020/02/waving_hand_sign_1024.gif" width="35px"> ##
+## Hi there, I'm David  <img src="https://i.pinimg.com/originals/b6/bf/38/b6bf382e9789d8e2e022120de47aa540.gif" width="35px"> ##
 <img src="https://s3-eu-central-1.amazonaws.com/yellow.studio/app/public/ckeditor_assets/pictures/138/content_heart-react.gif">
 *  I'm Full Stack Developer 💻 
 * In process of learning new skills ⚡
