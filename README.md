@@ -1,6 +1,7 @@
-### Hi there, I'm David 🧬
-###### I'm Full Stack Developer 💻 ######
-#### Languages and Tools: ####
+### Hi there, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+*I'm Full Stack Developer 💻
+*I'm in the process of learning new skills
+####⚙ Technologies and Tools: ####
 <!--
 **DavidKizinger/DavidKizinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
