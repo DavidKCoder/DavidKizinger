@@ -2,7 +2,7 @@
 *  I'm Full Stack Developer 💻 
 * In process of learning new skills ⚡
 
-### <img src="https://i.pinimg.com/originals/24/5d/9d/245d9d30b0ba45ce3b9768b8e5b52b2b.gif" width="35px" height="50px">  Technologies and Tools:
+<img src="https://i.pinimg.com/originals/24/5d/9d/245d9d30b0ba45ce3b9768b8e5b52b2b.gif" width="40px"> ### Technologies and Tools:
 ![](https://img.shields.io/badge/Tag-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=scss&logoColor=white&color=2bbc8a)
