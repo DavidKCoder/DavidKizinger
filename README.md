@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=scss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
