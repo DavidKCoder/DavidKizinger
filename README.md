@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tools-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=scss&logoColor=white&color=2bbc8a)
 
 ### 📈GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKizinger&layout=compact)](https://github.com/DavidKizinger/github-readme-stats)
