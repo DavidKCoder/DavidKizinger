@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Full Stack Developer 💻
 <!--
 **DavidKizinger/DavidKizinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
