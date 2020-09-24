@@ -25,7 +25,7 @@
 <br />
 <br />
 
-### Connect with me: <img src="https://85b35579f483e38c5a53-00a06a4f9ab177d913c1d9a2ae933a18.ssl.cf2.rackcdn.com/uploaded/i/0e8793225_1558820447_icampus-tv.gif" width="40px">
+### Connect with me:<img src="https://i.gifer.com/YYe6.gif" width="40px">
 [<img align="left" alt="DavidKizinger | LinkedIn" width="28px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DavidKizinger | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
