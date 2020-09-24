@@ -25,7 +25,7 @@
 <br />
 <br />
 
-### Connect with me:<img src="https://psychology2k19.files.wordpress.com/2019/02/email.gif" width="40px">
+### Connect with me:<img src="https://i.pinimg.com/originals/e4/38/e1/e438e1b7a4f6bb5a48cd5971f538571a.gif" width="40px">
 [<img align="left" alt="DavidKizinger | LinkedIn" width="28px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DavidKizinger | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
