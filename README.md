@@ -50,7 +50,7 @@
 
   <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKizinger&layout=compact&hide_border=true" />
 <br />
-  <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DavidKizinger&show_icons=true&hide_border=true&hide=stars" />
+  <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DavidKizinger&show_icons=true&hide_border=true&hide=stars,issue" />
 
 [linkedin]: https://linkedin.com/in/david-karapetyan1/
 [facebook]: https://www.facebook.com/dkarapetyan2
