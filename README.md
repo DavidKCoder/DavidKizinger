@@ -18,25 +18,11 @@
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/PostgreSQL/PostgreSQL.png" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
-![](https://img.shields.io/badge/Tag-HTML-informational?style=flat&logo=html&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=scss&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=MongoDb&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Nodejs&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=blue)
 
 
 
