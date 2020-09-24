@@ -27,7 +27,7 @@
 
 ### Connect with me: 
 [<img align="left" alt="DavidKizinger | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="DavidKizinger | LinkedIn" width="160px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DavidKizinger | LinkedIn" width="30px" background="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
