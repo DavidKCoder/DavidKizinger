@@ -40,4 +40,4 @@
 
 [linkedin]: https://linkedin.com/in/david-karapetyan1/
 [facebook]: https://www.facebook.com/dkarapetyan2
-[gmail]: karapetyand91@gmail.com
+[gmail]: https://mail.google.com/
