@@ -23,16 +23,17 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
+<br />
 
 ### Connect with me:
 
-[<img align="left" alt="DavidKizinger | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DavidKizinger | LinkedIn" width="28px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DavidKizinger | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 <br />
-<br />
-  <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKizinger&layout=compact&hide_border=true" />
+
+<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKizinger&layout=compact&hide_border=true" />
 <br />
   <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DavidKizinger&show_icons=true&hide_border=true&hide=stars,issues" />
 
