@@ -25,9 +25,9 @@
 <br />
 <br />
 
-### Connect with me: <img src="https://vkomplekt.spb.ru/themes/vkomp/images/preloader.gif" width="60px">
+### Connect with me: 
+[<img align="left" alt="DavidKizinger | Facebook" width="28px" src="https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Facebook-Logo-2019.gif" />][facebook]
 [<img align="left" alt="DavidKizinger | LinkedIn" width="28px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DavidKizinger | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 <br />
