@@ -28,7 +28,7 @@
 ### 📩 Connect with me: 
 [<img align="left" alt="DavidKizinger | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="DavidKizinger | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DavidKizinger | Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
+[<img align="left" alt="DavidKizinger | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 <br />
@@ -40,4 +40,4 @@
 
 [linkedin]: https://linkedin.com/in/david-karapetyan1/
 [facebook]: https://www.facebook.com/dkarapetyan2
-
+[gmail]: karapetyand91@gmail.com
