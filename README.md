@@ -26,7 +26,7 @@
 <br />
 
 ### Connect with me: 
-[<img align="left" alt="DavidKizinger | Facebook" width="60px" src="https://cdn57.androidauthority.net/wp-content/uploads/2019/11/Facebook-Logo-2019.gif" />][facebook]
+[<img align="left" alt="DavidKizinger | Facebook" width="60px" src="https://thumbs.gfycat.com/VainForsakenBluebird-small.gif" />][facebook]
 [<img align="left" alt="DavidKizinger | LinkedIn" width="28px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
